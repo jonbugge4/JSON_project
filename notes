@@ -1,0 +1,4 @@
+mylist = [transformation or expression, iteration, condition]
+iteration is the only argument is required
+
+
